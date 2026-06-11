@@ -1,2 +1,2 @@
 # win19
-[mypregram]program01.py]
+[mypregram](program01.py)
